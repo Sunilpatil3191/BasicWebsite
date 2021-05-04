@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.obj{
+    text-align: right;
+    padding-right:20% ;
+}
+.Bu:hover{
+background-color: aquamarine;
+color:white;
+}
+.row li{
+list-style-type:none;
+text-decoration: none;
+color:white;
+}
+.row li:hover{
+    color:pink;
+}
+.kk{
+    background-color:#293e51;
+    padding-bottom: 3%;
+}
+.h li{
+    margin-left:59%;
+    font-size: 12px;
+
+}
